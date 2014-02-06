@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>019D801B-8727-4D31-8925-AB9F4F64F2CE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SQLite Using C Library 2</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D2056E2F-F94E-4AF6-B325-726DAF784866</key>
+		<string>https://github.com/danny-source/SQLite-Using-C-Library-2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SQLite Using C Library 2/SQLite Using C Library 2.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D2056E2F-F94E-4AF6-B325-726DAF784866</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/danny-source/SQLite-Using-C-Library-2.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D2056E2F-F94E-4AF6-B325-726DAF784866</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D2056E2F-F94E-4AF6-B325-726DAF784866</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SQLite-Using-C-Library-2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
